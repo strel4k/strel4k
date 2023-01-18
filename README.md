@@ -36,7 +36,6 @@ class IOSDeveloper {
     
 ```
 
-Skills: SWIFT
 
 ## About
 - 🔭 I’m currently working on my pet and educational projects 
