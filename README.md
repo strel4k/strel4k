@@ -38,7 +38,7 @@ class IOSDeveloper {
 
 
 ## About
-- 🔭 I’m currently working on my pet and educational projects 
+- 🔭 I’m currently working on my pet project 
 
 ## Contact
 - 📫 How to reach me: ask.wwide@gmail.com 
