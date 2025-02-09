@@ -6,7 +6,7 @@
 class IOSDeveloper {
     
     let name = "Alex"
-    let age = 29
+    var age = 31
     let language = "Swift"
     
     var myStackDictionary: [String: [String]] = [
